@@ -1,0 +1,23 @@
+.todo-backgrnd{
+    height:100vh;
+    background-size:cover;
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    color:white;
+    padding:10px;
+}  
+.todo-mainhead{
+    text-align:center;
+}
+.todo-underline{
+    font-size:12px;
+    text-decoration:underline;
+    text-align:center;
+}
+.todo-button{
+    color:white;
+    background-color:orange;
+    border-width:0px;
+}
+.button-center{
+    text-align:center;
+}
